@@ -27,16 +27,16 @@ Persistent audit logging for reproducibility.
 
 Ensure you have Go installed on your machine.
 
-```bash
+bash```
 go mod init qubex-benchmark
 go mod tidy
-bash```
+```
 
 Run the Benchmark:
 
-```bash
-go run main.go
 bash```
+go run main.go
+```
 
 Results:
 
