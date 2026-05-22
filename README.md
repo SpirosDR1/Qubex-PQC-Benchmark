@@ -27,13 +27,15 @@ Prerequisites:
 
 Ensure you have Go installed on your machine.
 
-```Bash
+```
+Bash
 go mod init qubex-benchmark
 go mod tidy
 
 Run the Benchmark:
 
-```Bash
+```
+Bash
 go run main.go
 
 Results:
