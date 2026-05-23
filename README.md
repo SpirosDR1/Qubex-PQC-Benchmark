@@ -73,8 +73,10 @@ Developed for QUBEX SENTINEL Research Initiative.
 
 License: MIT
 
-### Expected Output
+### Expected Output & Audit Trail
 The tool outputs real-time signing latency and verifies connectivity to the specified network.
+
+### Terminal Output
 
 ```text
 --- QUBEX SENTINEL | MULTI-CHAIN PQC BENCHMARK ---
