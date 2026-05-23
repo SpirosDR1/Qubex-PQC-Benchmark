@@ -56,6 +56,7 @@ When running the benchmark, your terminal should output the live latency and ver
 [AUDIT] PQC Signing Latency: 40149 ns
 [AUDIT] Signature Verification: true
 [AUDIT] Verified Block Height: 41883616
+```
 
 ### Live Audit Proof
 The execution metrics and network connection are verified during runtime.
