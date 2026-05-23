@@ -30,8 +30,8 @@ func main() {
 		sk.Sign(nil, txData, nil)
 	}
 
-	// 4. Stress Test (10,000,000,000 iterations)
-	iterations := 10000000000
+	// 4. Stress Test (100,000 iterations)
+	iterations := 100000
 	startBench := time.Now()
 	for i := 0; i < iterations; i++ {
 		sk.Sign(nil, txData, nil)
@@ -57,9 +57,11 @@ func main() {
 
 	// Logs
 	fmt.Println("--------------------------------------------------")
+	fmt.Println("[AUDIT] Network: Base Sepolia")
 	fmt.Printf("[AUDIT] PQC Signing Latency: %d ns\n", avgPQC)
+	fmt.Printf("[AUDIT] Signature Verification: %v\n", valid)
 	fmt.Printf("[AUDIT] Verified Block Height: %d\n", header.Number)
 	fmt.Printf("[AUDIT] Log saved in: %s\\qubex_benchmark.log\n", os.Args[0])
 	fmt.Println("--------------------------------------------------")
-	fmt.Println("QUBEX SENTINEL: Ready for Deployment. 🛡️")
+	fmt.Println("QUBEX SENTINEL: Ready for Deployment.")
 }
