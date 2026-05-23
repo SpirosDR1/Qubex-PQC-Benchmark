@@ -79,10 +79,10 @@ QUBEX SENTINEL: polygon Ecosystem is Ready for PQC Deployment.
 Each run automatically appends verifiable data to a network-specific log file (e.g., qubex_polygon_audit.log or qubex_base_audit.log). The audit trail provides an immutable-like record including:
 
 *Execution Timestamp (RFC3339)
-Targeted Network
-Average PQC Latency (ns)
-Verified Blockchain Height
-Signature Verification Status
+*Targeted Network
+*Average PQC Latency (ns)
+*Verified Blockchain Height
+*Signature Verification Status
 
 ### Developed for QUBEX SENTINEL Research Initiative
 License: MIT
