@@ -102,7 +102,7 @@ Each run automatically appends verifiable data to a network-specific log file (e
 
 ---
 
-Ready for Production?
+## Ready for Production?
 
 We are actively selecting Tier-1 RaaS providers and L2/L3 ecosystems for the Genesis Partnership Program (6-month zero-fee integration).
 
