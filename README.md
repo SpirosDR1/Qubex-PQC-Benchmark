@@ -6,7 +6,7 @@ A high-performance audit tool designed to measure the latency impact of Post-Qua
 
 * Official Portal: [qubexsentinel.com](https://qubexsentinel.com)
 
-* Live Execution Logs: [qubexsentinel.com/benchmarks.html](https://qubexsentinel.com/benchmarks.html)
+* Live Execution Logs: [qubexsentinel.com/benchmarks](https://qubexsentinel.com/benchmarks)
 
 * Apply for Genesis Partnership (Zero-Fee Integration): [Access the Application Form Here](https://forms.gle/hmUdBiQz3PT2x8TT7)
 
