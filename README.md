@@ -32,14 +32,14 @@ As blockchain infrastructure transitions toward quantum resistance to combat HND
 Prerequisites: Ensure you have Go installed on your machine.
 
 1. Clone the repository:
-```bash
+```go
 git clone https://github.com/SpirosDR1/Qubex-PQC-Benchmarks.git
 cd Qubex-PQC-Benchmarks
 go mod tidy
 ```
 2. Run the Chaos Engine Stress Test:
 
-```bash
+```go
 go run main.go polygon
 ``` 
 
@@ -49,7 +49,7 @@ go run main.go polygon
 
 The tool outputs real-time signing latency and verifies connectivity to the specified network.
 
-```bash
+```go
 --- QUBEX SENTINEL | MULTI-CHAIN PQC BENCHMARK ---
 
 [SYSTEM] Targeting Network: polygon
