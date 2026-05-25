@@ -91,8 +91,8 @@ Ready for Production?
 
 We are actively selecting Tier-1 RaaS providers and L2/L3 ecosystems for the Genesis Partnership Program (6-month zero-fee integration).
 
-## Initiate Integration via the Genesis Form
+[Initiate Integration via the Genesis Form](https://forms.gle/hmUdBiQz3PT2x8TT7)
 
-Developed for QUBEX SENTINEL Research Initiative 
+*Developed for QUBEX SENTINEL Research Initiative* 
 
-License: MIT
+*License: MIT*
