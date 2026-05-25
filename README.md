@@ -77,21 +77,21 @@ QUBEX SENTINEL: polygon Ecosystem is Ready for PQC Deployment.
 
 Each run automatically appends verifiable data to a network-specific log file (e.g., qubex_polygon_audit.log). The audit trail provides an immutable-like record including:
 
-Execution Timestamp (RFC3339)
+* Execution Timestamp (RFC3339)
 
-Targeted Network
+* Targeted Network
 
-Average PQC Latency (ns)
+* Average PQC Latency (ns)
 
-Verified Blockchain Height
+* Verified Blockchain Height
 
-Signature Verification Status
+* Signature Verification Status
 
 Ready for Production?
 
 We are actively selecting Tier-1 RaaS providers and L2/L3 ecosystems for the Genesis Partnership Program (6-month zero-fee integration).
 
-Initiate Integration via the Genesis Form
+## Initiate Integration via the Genesis Form
 
 Developed for QUBEX SENTINEL Research Initiative 
 
