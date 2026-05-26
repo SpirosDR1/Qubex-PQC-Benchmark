@@ -36,4 +36,4 @@ Technical readiness is complete. Ecosystem survival now requires protocol consen
 
 For integration architecture and Node Operator requirements, secure your slot below:
 
-👉 [Submit Genesis Pilot Request](https://docs.google.com/forms/d/e/1FAIpQLSc6HvUe5tBH6fJ-m0B8j3eBBl4vBaPPHN_XF9h0m9OrxGPRww/viewform)
+[Submit Genesis Pilot Request](https://docs.google.com/forms/d/e/1FAIpQLSc6HvUe5tBH6fJ-m0B8j3eBBl4vBaPPHN_XF9h0m9OrxGPRww/viewform)
