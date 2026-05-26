@@ -25,6 +25,7 @@ Load Test Parameters:
 | Arbitrum | ~39k - 65k ns | Sub-Millisecond (<1ms) | SECURED |
 | zkSync Era | ~39k - 65k ns | Sub-Millisecond (<1ms) | SECURED |
 | Polygon Amoy | ~39k - 65k ns | Sub-Millisecond (<1ms) | SECURED |
+
 *(Full 11-network concurrency logs including Linea, Blast, Mantle, Scroll, Metis, BNB are preserved in system audits).*
 
 ---
