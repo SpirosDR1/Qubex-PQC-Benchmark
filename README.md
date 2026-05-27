@@ -45,7 +45,7 @@ Legacy ECDSA rollups face an existential threat from quantum vectors. However, i
 
 QUBEX solves this via a decoupled pre-batcher execution:
 1. Intercept: The middleware wraps the op-node (sequencer).
-2. Verify: ML-DSA signatures are mathematically verified in sub-millisecond latency (avg. ~39k ns).
+2. Verify: ML-DSA signatures are mathematically verified in sub-millisecond latency (e.g., BNB Chain at ~424k ns, Base at ~762k ns ).
 3. Compress: Only verified state data reaches the op-batcher.
 4. Result: Absolute PQC integrity on L2 with zero bytes of PQC overhead added to L1 calldata.
 
