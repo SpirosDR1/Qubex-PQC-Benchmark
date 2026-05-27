@@ -28,13 +28,13 @@ Load Test Parameters:
 - Execution Time: 1m 46s
 - Security Standard: NIST Level 5 (ML-DSA-87)
 
-| Target Ecosystem | Baseline Latency (Enterprise CPU) | Peak Stress Latency (1.1M Load) | Status |
-| :--- | :--- | :--- | :--- |
+| Target Ecosystem | Peak Stress Latency (1.1M Load) | Status |
+| :--- | :--- | :--- |
 | Base (Sepolia) | ~762k ns (0.76 ms) | SECURED |
 | Optimism | ~1.05 ms | SECURED |
-| Arbitrum | ~602k ns | Sub-Millisecond (<1ms) | SECURED |
-| Polygon Amoy | ~607k ns | Sub-Millisecond (<1ms) | SECURED |
-| zkSync Era | ~608k ns | Sub-Millisecond (<1ms) | SECURED |
+| Arbitrum | ~602k ns | SECURED |
+| Polygon Amoy | ~607k ns | SECURED |
+| zkSync Era | ~608k ns | SECURED |
 
 *(Full 11-network concurrency logs including Linea, Blast, Mantle, Scroll, Metis, BNB are preserved in system audits).*
 
