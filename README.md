@@ -83,4 +83,4 @@ Legacy ECDSA architectures across all L2/L3 networks are mathematically exposed.
 
 To request a technical handoff and secure a Genesis Pilot slot, submit your protocol's architecture for review by our core team:
 
-👉 [Submit Genesis Pilot Request](https://docs.google.com/forms/d/e/1FAIpQLSc6HvUe5tBH6fJ-m0B8j3eBBl4vBaPPHN_XF9h0m9OrxGPRww/viewform)
+[Submit Genesis Pilot Request](https://docs.google.com/forms/d/e/1FAIpQLSc6HvUe5tBH6fJ-m0B8j3eBBl4vBaPPHN_XF9h0m9OrxGPRww/viewform)
