@@ -42,3 +42,14 @@
 [2026-05-27T00:18:41+03:00] BRAND: QUBEX SENTINEL | NETWORK: Arbitrum   | Latency: 740646 ns | Block: 271339172 | Valid: true
 [2026-05-27T00:18:41+03:00] BRAND: QUBEX SENTINEL | NETWORK: BNB        | Latency: 737014 ns | Block: 109749301 | Valid: true
 [2026-05-27T00:18:45+03:00] BRAND: QUBEX SENTINEL | NETWORK: Blast      | Latency: 775527 ns | Block: 37509071 | Valid: true
+[2026-05-28T22:21:43+03:00] BRAND: QUBEX SENTINEL | NETWORK: Arbitrum   | Sign: 476748 ns | Verify: 179985 ns | Block: 271813388 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:21:50+03:00] BRAND: QUBEX SENTINEL | NETWORK: zkSync     | Sign: 532161 ns | Verify: 186484 ns | Block: 7519892 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:21:53+03:00] BRAND: QUBEX SENTINEL | NETWORK: Metis      | Sign: 569466 ns | Verify: 175481 ns | Block: 10784955 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:22:15+03:00] BRAND: QUBEX SENTINEL | NETWORK: BNB        | Sign: 752569 ns | Verify: 217239 ns | Block: 110117717 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:22:32+03:00] BRAND: QUBEX SENTINEL | NETWORK: Base       | Sign: 1023278 ns | Verify: 118730 ns | Block: 42113874 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:22:34+03:00] BRAND: QUBEX SENTINEL | NETWORK: Optimism   | Sign: 1038430 ns | Verify: 120701 ns | Block: 44096748 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:22:38+03:00] BRAND: QUBEX SENTINEL | NETWORK: Blast      | Sign: 1057001 ns | Verify: 134870 ns | Block: 37631969 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:23:06+03:00] BRAND: QUBEX SENTINEL | NETWORK: Polygon    | Sign: 1401724 ns | Verify: 74529 ns | Block: 39176941 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:23:07+03:00] BRAND: QUBEX SENTINEL | NETWORK: Mantle     | Sign: 1395950 ns | Verify: 78393 ns | Block: 39225679 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:23:38+03:00] BRAND: QUBEX SENTINEL | NETWORK: Linea      | Sign: 1709490 ns | Verify: 70578 ns | Block: 29812119 | Valid: true | Level: ML-DSA-87
+[2026-05-28T22:23:47+03:00] BRAND: QUBEX SENTINEL | NETWORK: Scroll     | Sign: 1813690 ns | Verify: 58989 ns | Block: 18330523 | Valid: true | Level: ML-DSA-87
