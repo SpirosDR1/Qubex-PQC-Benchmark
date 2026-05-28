@@ -28,19 +28,19 @@ Load Test Parameters:
 * Execution Time: 1m 46s
 * Security Standard: NIST Level 5 (ML-DSA-87)
 
-| Target Ecosystem | Peak Stress Latency (1.1M Load) | Status  |
-| :--- | :--- | :--- |
-| Base | 39,595 ns (~0.039 ms) | SECURED |
-| Blast | 317,479 ns (~0.31 ms) | SECURED |
-| Linea | 323,951 ns (~0.32 ms) | SECURED |
-| BNB | 424,553 ns (~0.42 ms) | SECURED |
-| Scroll | 450,130 ns (~0.45 ms) | SECURED |
-| Mantle | 523,436 ns (~0.52 ms) | SECURED |
-| Arbitrum | 602,595 ns (~0.60 ms) | SECURED |
-| Polygon | 607,658 ns (~0.60 ms) | SECURED |
-| zkSync | 608,113 ns (~0.60 ms) | SECURED |
-| Metis | 683,961 ns (~0.68 ms) | SECURED |
-| Optimism | 1,058,173 ns (~1.05 ms) | SECURED |
+| Target Ecosystem | Peak Stress Latency (1.1M Load) | Block Height | Status  |
+| :--- | :--- | :--- | :--- |
+| Blast | 317,479 ns (~0.31 ms) | 37444451 | SECURED |
+| Linea | 323,951 ns (~0.32 ms) | 29771250 | SECURED |
+| BNB | 424,553 ns (~0.42 ms) | 109737947 | SECURED |
+| Scroll | 450,130 ns (~0.45 ms) | 18301465 | SECURED |
+| Mantle | 523,436 ns (~0.52 ms) | 39140229 | SECURED |
+| Arbitrum | 602,595 ns (~0.60 ms) | 271330309 | SECURED |
+| Polygon | 607,658 ns (~0.60 ms) | 39063007 | SECURED |
+| zkSync | 608,113 ns (~0.60 ms) | 7502406 | SECURED |
+| Metis | 683,961 ns (~0.68 ms) | 10752058 | SECURED |
+| Base | 762,183 ns (~0.76 ms) | 42028424 | SECURED |
+| Optimism | 1,058,173 ns (~1.05 ms) | 44011298 | SECURED |
 
 > Hardware Scalability Note: The above logs reflect stress-testing under *consumer-grade CPU bottlenecks*. The QUBEX decoupled algorithm inherently solves PQC overhead, engineered to scale at < 100,000 ns latency per operation when deployed on Enterprise Bare-Metal architectures (e.g., AWS Graviton, 64+ core instances).
 
@@ -53,7 +53,7 @@ Legacy ECDSA rollups face an existential threat from quantum vectors. However, i
 QUBEX solves this via a decoupled pre-batcher execution:
 
 1. Intercept: The middleware wraps the op-node (sequencer).
-2. Verify: ML-DSA signatures are mathematically verified in sub-millisecond latency (e.g., Base at ~39k ns, Linea at ~323k ns).
+2. Verify: ML-DSA signatures are mathematically verified in sub-millisecond latency
 3. Compress: Only verified state data reaches the op-batcher.
 4. Result: Absolute PQC integrity on L2 with zero bytes of PQC overhead added to L1 calldata.
 
