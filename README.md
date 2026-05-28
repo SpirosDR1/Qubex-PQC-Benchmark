@@ -98,6 +98,8 @@ QUBEX Sentinel is currently selecting high-TVL Tier-1 DeFi protocols and Rollup-
 
 Legacy ECDSA architectures across all L2/L3 networks are mathematically exposed. The choice is binary: native-proof your infrastructure with QUBEX to ensure total TVL sovereignty, or leave your ecosystem vulnerable to total extraction.
 
-Initiate Integration To request a technical handoff and secure a Genesis Pilot slot, submit your protocol's architecture for review by our core team:
+#### Initiate Integration:
+
+To request a technical handoff and secure a Genesis Pilot slot, submit your protocol's architecture for review by our core team:
 
 [Submit Genesis Pilot Request Here](https://forms.gle/hmUdBiQz3PT2x8TT7)
