@@ -26,6 +26,9 @@ What this repository is NOT: This is NOT the complete Qubex Pre-Batcher / Interc
 ---
 
 ## Core Architecture: The "Zero L1 Impact" Paradigm
+
+QUBEX Sentinel sits as a non-invasive interceptor layer between the Sequencer and the Batcher, ensuring PQC integrity without modifying the consensus logic.
+
 Integrating PQC directly on-chain inflates gas costs and state bloat to unsustainable levels. QUBEX solves this via a decoupled pre-batcher execution:
 
 1. Intercept: The middleware wraps the op-node (sequencer).
