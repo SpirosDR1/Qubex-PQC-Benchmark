@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> QUBEX Sentinel: Decoupled ML-DSA Pre-Batcher Shield</h1>
-  <p><b>The Universal Post-Quantum Cryptography (PQC) Middleware for Web3 Ecosystems</b></p>
+  <h1> QUBEX Sentinel: AI-Driven Post-Quantum DePIN Shield</h1>
+  <p><b>The First Decentralized AI-PQC Middleware for EVM Ecosystems & Cross-Chain Bridges</b></p>
   
   [![Status](https://img.shields.io/badge/Status-MVP%20%7C%20Genesis%20Pilots-00f5ff?style=flat-square)](#)
   [![Security](https://img.shields.io/badge/Security-NIST_Level_5-blue?style=flat-square)](#)
