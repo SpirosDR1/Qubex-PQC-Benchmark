@@ -48,7 +48,7 @@ Load Test Parameters:
 * Security Standard: NIST Level 5 (ML-DSA-87)
 * Operations: 2.2 Million Concurrent PQC Operations (1.1M Sign + 1.1M Verify)
 * Concurrency: 11 Tier-1 EVM Ecosystems Simultaneously
-* Total Execution Time: ~1m 10s
+* Total Execution Time: ~3m 10s
 
 | Target Ecosystem | Signing Latency | Verification Latency | Status |
 | :--- | :--- | :--- | :--- |
